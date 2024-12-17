@@ -12,7 +12,7 @@ Empty rows: Used the Filter feature to look for blanks and remove all empty rows
 Duplicate records: Used Remove Duplicates feature to look for and remove any duplicated records from the data.
 Spelling: Checked for spelling mistakes in the data and fixed them.
 Whitespace: Used the Find and Replace feature to remove all double-spaces from the data.
-Department names: When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they were split over two columns in the data. I used Flash Fill to reduce the department names to just one column, and then removed any unnecessary columns.
+Department names: When the data was converted from its data source, the department names didn’t import correctly and they were split over two columns in the data. I used Flash Fill to reduce the department names to just one column, and then removed any unnecessary columns.
 
 ## Part 2
 The next part of then project involved cleaning and preparing the data and then creating some pivot tables from it to help you analyze the data.
